@@ -47,3 +47,4 @@ while True:
         matricula = int(input('◄◄◄◄◄◄◄ Digite la matricula ►►►►►►►: '))
 
         print("Estudiante eliminado: "+client.service.eliminandoEstudiante(matricula))
+        #Esta funcion no esta implementada en el servidor
